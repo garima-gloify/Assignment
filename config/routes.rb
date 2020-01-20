@@ -6,5 +6,5 @@ resources : phones
 collection : do
   post Allots_a_number
   post Allots_the_number_1111111111
-  post Lists_all_allotted_numbers
+  get Lists_all_allotted_numbers
 end
